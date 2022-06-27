@@ -1,0 +1,15 @@
+{
+  "name": "convert-intellij-keymap",
+  "version": "0.0.1",
+  "description": "Convert IntelliJ keymaps from Windows to Mac",
+  "author": "John Dunning",
+  "keywords": [],
+  "license": "MIT",
+  "main": "src/convert.js",
+  "scripts": {
+    "bin": "node src/convert.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.0.8"
+  }
+}
